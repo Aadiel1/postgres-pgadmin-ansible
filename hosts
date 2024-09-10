@@ -1,0 +1,2 @@
+[postgres]
+192.168.30.59 ansible_user=root ansible_password=pass??Admin@123
